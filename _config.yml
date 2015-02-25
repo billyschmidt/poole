@@ -11,11 +11,11 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://billyschmidt.github.io/poole/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Billy Schmidt
+  url:            http://billyschmidt.io
+  email:          bs@billyschmidt.io
 
 # Custom vars
 version:          1.0.0
