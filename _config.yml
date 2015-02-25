@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Billy Schmidt
+tagline:          No idea what I'm doing
 url:              http://getpoole.com
 paginate:         1
-baseurl:          http://billyschmidt.github.io/poole/
+baseurl:          /
 author:
   name:           Billy Schmidt
   url:            http://billyschmidt.io
